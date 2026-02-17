@@ -211,10 +211,10 @@
         .sponsors-flex { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; }
         .sponsor-box {
             width: 140px; height: 80px;
-            background: rgba(255,255,255,0.05);
+            /*background: rgba(255,255,255,0.05);*/
             display: flex; align-items: center; justify-content: center;
             border-radius: 8px;
-            color: #555;
+            /*color: #555; */
         }
 
         /* --- ROBOTLARIMIZ GALERİSİ (V2) --- */
